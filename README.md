@@ -1,5 +1,4 @@
 # Pre-Placement-Project
-Introduction:
 Welcome to my project on the "Olympic Dataset Analysis."
 In this project, we will embark on a journey through the rich history of the Olympic Games using data as our guide.
 Our objective is to unearth fascinating insights into the world's most celebrated sporting event, from medal counts to athlete demographics.
